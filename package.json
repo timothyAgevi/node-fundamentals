@@ -1,0 +1,23 @@
+{
+  "name": "fundamentals",
+  "version": "1.0.0",
+  "description": "node fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyAgevi/node-fundamentals.git"
+  },
+  "keywords": [
+    "node",
+    "fundamentals"
+  ],
+  "author": "timothyAgevi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothyAgevi/node-fundamentals/issues"
+  },
+  "homepage": "https://github.com/timothyAgevi/node-fundamentals#readme"
+}
