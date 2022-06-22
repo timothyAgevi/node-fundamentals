@@ -1,0 +1,8 @@
+{
+  "name": "NODE-FARM",
+  "version": "1.0.0",
+  "description": "node-farm",
+  "main": "index.js",
+  "author": "timothyAgevi",
+  "license": "MIT"
+}
