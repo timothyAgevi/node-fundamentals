@@ -40,7 +40,11 @@ const url= require('url');
         }else if(pathName ==='/product'){
          res.end('This is the PRODUCT');
         }else {
-         res.end('Page not found');
+         //status code
+         res.writeHead(404,{
+            'Content-type':'text/html'
+         });
+         res.end(<h1> Page not found</h1>);
         }
      });
      //server listening
